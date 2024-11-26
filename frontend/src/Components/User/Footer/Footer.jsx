@@ -29,7 +29,7 @@ const Root = styled('div')(({ theme }) => ({
 function Copyright(props) {
     return (
         <Typography variant="body2" color="text.secondary" align="center" {...props}>
-            {'Developed with 🖤 by '}
+            {'Developed with 🖤 by Prince '}
             <strong><a className='text-style' href="#" target="_blank" rel="noreferrer noopener">bastolaronak</a> </strong>{'Copyright ©'}
             {new Date().getFullYear()}
             {'.'}
